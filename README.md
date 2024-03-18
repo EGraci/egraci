@@ -15,8 +15,8 @@ I'm a passionate developer specializing in Back-end and Data Science. I love to 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egraci&show_icons=true&theme=radical)
 
 ## 💼 Some of My Projects
-- **Pahlawan APK**: Make it fun to learn about historical heroes in Indonesia through an app - (https://github.com/EGraci/KKN-Blitar(#))
-- **API ALT Game**: API transaction for the latest games like console or video games - (https://github.com/vincentmoel/api-altgame(#))
+- **Pahlawan APK**: Make it fun to learn about historical heroes in Indonesia through an app - (https://github.com/EGraci/KKN-Blitar)
+- **API ALT Game**: API transaction for the latest games like console or video games - (https://github.com/vincentmoel/api-altgame)
 
 ## 📚 Learning & Future Goals
 I'm currently learning how to use OpenAI Playground, and I plan to explore GPT-4. My goal is to become more proficient in tuning command prompts and contribute to easier content classification.
