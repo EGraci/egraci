@@ -16,8 +16,7 @@
 # Hi there, I'm Brielt! 👋
 
 ## 🚀 About Me
-I'm a passionate developer specializing in Back-end and Data Science. I love to explore new technologies and leverage them to solve real-life problems. I'm currently diving deeper into SpringBoot and Tensor.
-
+I am a Software Engineer specializing in maintaining networks, hardware, software, and servers to ensure smooth and reliable operations. I actively contribute to the development of academic systems, guest book applications, and various office administrative tasks by implementing efficient and effective solutions using web-based platforms, Microsoft Office, and Google Workspace.
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, Java, PHP, HTML5, CSS3 
 - **Frameworks/Libraries**: Flask, ReactNative, SpringBoot, Laravel
@@ -43,6 +42,6 @@ I'm a passionate developer specializing in Back-end and Data Science. I love to 
 - **API ALT Game**: API transaction for the latest games like console or video games - (https://github.com/vincentmoel/api-altgame)
 
 ## 📚 Learning & Future Goals
-I'm currently learning how to use OpenAI Playground, and I plan to explore GPT-4. My goal is to become more proficient in tuning command prompts and contribute to easier content classification.
+I am committed to integrating AI into my future projects to enhance efficiency and effectiveness. Currently, I am learning how to use OpenAI Playground and plan to explore GPT-4 further. My goal is to become proficient in fine-tuning command prompts
 
 ## 😄 Pronouns: He/Him
